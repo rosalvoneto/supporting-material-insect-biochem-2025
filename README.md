@@ -1,6 +1,6 @@
 # supporting-material-insect-biochem-2025
 
-**Supporting data and code for XGBoost + docking study on _Ceratitis capitata_ attractants**
+**Supporting data and code for QSAR modeling of _Ceratitis capitata_ attractants using machine learning techniques**
 
 This repository contains the supplementary material for the article:
 
