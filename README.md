@@ -11,7 +11,7 @@ This repository contains the supplementary material for the article:
 
 ## ✍️ Authors
 
-- **Edilson B. Alencar-Filho¹***  
+- **Edilson B. Alencar-Filho¹***   (corresponding author)
 - Ramiro P. Guimarães¹  
 - Vanessa Costa Santos  
 - Ana B. P. Bispo²  
@@ -25,3 +25,5 @@ This repository contains the supplementary material for the article:
 <sup>³</sup>Laboratory of Biological Control, Embrapa Semiárido, Petrolina, PE, Brazil  
 <sup>⁴</sup>Chemical Ecology Laboratory, Institute of Chemistry and Biotechnology, Federal University of Alagoas, Maceió, AL, Brazil  
 <sup>⁵</sup>Department of Computer Engineering, Federal University of Vale do São Francisco, Juazeiro, BA, Brazil  
+
+**\*** Corresponding author: edilson.alencar@univasf.edu.br
